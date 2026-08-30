@@ -1,0 +1,4 @@
+langchain
+ipykernal
+langchain_community
+langchain-text-splitters
